@@ -1,7 +1,3 @@
-That's a fantastic idea for a portfolio\! Here is a draft for your **README.md** file, emphasizing your commitment to solving the problems without the aid of a Large Language Model (LLM).
-
------
-
 # Introduction to Statistical Learning with Applications in Python (ISL-Python) Labs and Exercises Portfolio
 
 This repository documents my completed **Labs** and **Exercises** from the textbook ***Introduction to Statistical Learning with Applications in Python*** by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor.
